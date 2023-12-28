@@ -15,7 +15,7 @@ public class Main {
      e1.setTpConta("Corrente ");                // Tipo de conta escolhida
 
      e1.depositar(5000);                            // Metodo depositar inserindo valores entre parentes
-     e1.Sacar(5000);                                // Metodo Sacar inserindo valoes entre parentes
+     e1.Sacar(5000);                                // Metodo Sacar inserindo valores entre parentes
 
         e1.cadastro();
 
